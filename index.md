@@ -9,22 +9,39 @@
 + last name : Izadi DakhrAbadi
 + Date of birth : 1999/JUNE/27
 + I am a Computer engineering student
++ marital status :Single
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ Freelancer
-+ 
++ Photoshop
++ Web design
++ Painting
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Allameh Majlisi Girly High school
++ Bachelor of science : Computer Engineering Student
+ payam Noor University of North Tehran
+ 
+ 
+ 
+ ### Programming skills and languages
+ 
+ ---
+ + HTML5
+ + CSS3
+ + Boot strap4
+ + Sass
+ + flex box
+ + js
+ + C
+ + C++
+ 
 
 ### language
 
@@ -35,15 +52,21 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Draw
++ study book
++ Swim
++ Web design
++ Artificial intelligence
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ Freelancer
+
+### contact with me
+
+----
++ Zeinab.izadi1999@gmail.com
 
 
 
