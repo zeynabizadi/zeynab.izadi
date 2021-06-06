@@ -30,7 +30,7 @@
  
  
  
- ### Programming skills and languages
+### Programming skills and languages
  
  ---
  + HTML5
