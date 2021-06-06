@@ -5,18 +5,18 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Zeynab
++ last name : Izadi DakhrAbadi
++ Date of birth : 1999/JUNE/27
++ I am a Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Freelancer
++ 
 
 
 ### Education
